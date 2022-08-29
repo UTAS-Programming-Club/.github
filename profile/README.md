@@ -20,4 +20,4 @@ Discord: (Add when our discord has a verification process in place)
 * TODO
 
 🍿 Fun facts
-* The club was started during the 2020 pandemic
+* The club was started in 2021
