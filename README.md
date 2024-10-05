@@ -1,2 +1,2 @@
 # .github
-Used to display a readme on the gidhub profile page for this organisation.
+Used to display a readme on the github profile page for this organisation.
