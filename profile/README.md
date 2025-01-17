@@ -9,12 +9,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## This is the github organisation for the utas programming club. (Name soon to be changed)
+## This is the Github organisation for the Programming Club.
 
-Discord: (Add when our discord has a verification process in place)
+Discord: https://discord.gg/d6RdH2bfJ8
 
 🌈 Contribution guidelines
-* Any member of the programming club can create a fork and submit a pull request and the executives will choose to accept it if it is appropriate :) 
+* Any member of the programming club can create a fork and submit a pull request, and the executives will choose to accept it if it is appropriate :) 
 
 👩‍💻 Useful resources
 * TODO
