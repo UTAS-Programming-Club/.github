@@ -1,6 +1,6 @@
 ## This is the Github organisation for the Programming Club.
 
-Discord: https://discord.programmingclub.com.au
+Discord: https://discord.programmingclub.com.au \
 Memberships: https://memberships.programmingclub.com.au
 
 🌈 Contribution guidelines
